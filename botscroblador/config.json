@@ -1,7 +1,7 @@
 {
-    "ARTIST": "Charli xcx",
-    "TRACK": "360",
-    "ALBUM": "BRAT",
-    "LIMIT": 1,
-    "INTERVAL": 1
+    "ARTIST": "My Chemical Romance",
+    "TRACK": "Helena",
+    "ALBUM": "Three Cheers for Sweet Revenge",
+    "LIMIT": 1000,
+    "INTERVAL": 5
 }
